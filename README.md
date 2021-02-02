@@ -19,11 +19,11 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 >>hrjher
 >>fylft
 ## order list
-1. cse
-2. ddd
-3.mech
-    1.mech a
-    2.mech b 
-    4.civil
-    5.eee
+1.  cse
+2.  ddd
+3. mech
+    1. mech a
+    2. mech b 
+    4. civil
+    5. eee
     
