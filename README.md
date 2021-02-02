@@ -27,7 +27,7 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
     4. civil
     5. eee
 ## unorder list
-_ 
+ 
 _cse
 _ece
 _mech
