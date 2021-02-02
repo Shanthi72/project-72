@@ -28,13 +28,30 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
     5. eee
 ## unorder list
  
-_cse
-_ece
-_mech
+-cse
+-ece
+-mech
     *mech a
     *mech b
-_civil
+-civil
    *civil a
     *civil b
-_eee    
-    
+-eee    
+  ## codeing
+  ```
+  def fun()
+  print(" hellow")
+  ```
+  ```
+  fun()
+  ```
+  print("hellow")
+  
+  ## inserting urls
+  .[sha].https://www.markdownguide.org()
+  
+[github]https://www.google.com/search?q=github+login&oq=github&aqs=chrome.1.69i57j0i433j69i59l2j0i433l2j0i395i433l2.10129j1j15&sourceid=chrome&ie=UT
+
+[mail]sahnthi.kits2017@gmail.com
+
+  
